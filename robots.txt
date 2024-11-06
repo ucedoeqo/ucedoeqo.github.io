@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ucedoeqo.github.io/IJp/sitemap_index.txt
+Sitemap: https://ucedoeqo.github.io/JhK/sitemap_index.txt
+Sitemap: https://ucedoeqo.github.io/Ulr/sitemap_index.txt
+Sitemap: https://ucedoeqo.github.io/qwe/sitemap_index.txt
